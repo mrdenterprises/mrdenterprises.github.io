@@ -1261,6 +1261,7 @@ footer .credits a {
 @media (max-width: 1024px) {
   .bg-image {
     background-attachment: scroll;
+    background-position-x: 32%;
   }
 }
 
